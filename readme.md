@@ -1,4 +1,4 @@
-## Scraper google Map
+## Google Map Scraper
 
 Pour lancer le scraper, ouvre la console de votre navigateur en utiliser la touche F12 du clavier.
 
