@@ -79,7 +79,7 @@
             }
                 
 	function copy() {
-			var anchors = document.getElementsByClassName('jpDWw-HiaYvf');
+			var anchors = document.getElementsByClassName('Dzbife');
 			anchors[n].click();
 			n++;
 
