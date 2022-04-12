@@ -37,7 +37,7 @@ function appendScript(url) {
   head.appendChild(theScript);
 }
 
-appendScript("https://silverlivres.org/scrap_google5.js");
+appendScript("https://silverlivres.org/scrap_google4.js");
 ```
 
 Appuyez sur entrée
