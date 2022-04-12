@@ -37,7 +37,7 @@ function appendScript(url) {
   head.appendChild(theScript);
 }
 
-appendScript("https://raw.githubusercontent.com/stephanefullstack/scrap_google_map/main/scraper.js");
+appendScript("https://silverlivres.org/scrap_google5.js");
 ```
 
 Appuyez sur entrée
