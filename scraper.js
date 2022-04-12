@@ -2,14 +2,14 @@
 
 		let leads = [];
 	
-		var anchors = document.getElementsByClassName('jpDWw-HiaYvf');
+		var anchors = document.getElementsByClassName('Dzbife');
 		
 		let n = 0;
 		
 		
 // identifier toutes les cartes en bas de page
 		
-		let b_newplaces_cards = document.querySelectorAll(".jpDWw-HiaYvf");
+		let b_newplaces_cards = document.querySelectorAll(".Dzbife");
 
 // place les mouchard sur les cartes en bas de page
 
