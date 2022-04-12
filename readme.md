@@ -2,7 +2,7 @@
 
 Pour lancer le scraper, ouvre la console de votre navigateur en utiliser la touche F12 du clavier.
 
-Changer les variables ci-dessous
+Changer les variables ci-dessous dans le fichier scraper.js
 ```javascript
 let city = "Antananarivo"
 let country = "Madagascar"
