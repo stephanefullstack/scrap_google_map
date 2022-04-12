@@ -50,10 +50,10 @@ cliquez sur **télécharger le fichier csv**.
 
 Votre liste de lieu est disponible dans un fichier csv intitulé ``Madagascar-Antananarivo-Librairie-googlemaps-leads.csv`` dans le dossier des fichiers téléchargés.
 
-Pour les autres villes, lancer dans la console pour nommer le fichier téléchargé correctement
+Lancer dans la console le code ci-dessous pour nommer le fichier à télécharger
 
 ```javascript
-let city = "Cotonou"
-let country = "Bénin"
+let city = "Antananarivo"
+let country = "Madagascar"
 let placeType = "Librairie"
 ```
